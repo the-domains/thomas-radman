@@ -1,0 +1,28 @@
+name: Thomas Radman
+favicon: null
+layout_spectrum: 0.2621950334869325
+typography_spectrum: 0.04253981076180935
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.15519667882472277
+  lightness: 0.650444847997278
+  saturation: 0.4676215446088463
+  rhythmicContrast: 0.017138019669800997
+purpose: []
