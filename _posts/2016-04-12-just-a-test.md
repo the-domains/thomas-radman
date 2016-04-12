@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: this is a test
-datePublished: '2016-04-12T06:24:03.777Z'
-dateModified: '2016-04-12T06:23:32.787Z'
+description: this is the testPAGE content
+datePublished: '2016-04-12T06:27:03.186Z'
+dateModified: '2016-04-12T06:24:06.177Z'
 title: Just a testPAGE
 author: []
 sourcePath: _posts/2016-04-12-just-a-test.md
