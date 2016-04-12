@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Thomas Radman]]></title>
-        <description><![CDATA[Thomas Radman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[this is not the end]]></title>
+        <description><![CDATA[this is not the end]]></description>
+        <link>https://thegrid.ai/thomas-radman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 07:22:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 06:16:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thomas-radman/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Just a test]]></title>
+            <description><![CDATA[<article><h1>Just a test</h1><p>this is a test</p></article>]]></description>
+            <link>https://thegrid.ai/thomas-radman/just-a-test/index.html</link>
+            <guid isPermaLink="false">ae4e09f4-ef01-42dd-9240-0b8aaad9e6c5</guid>
+            <pubDate>Tue, 12 Apr 2016 06:16:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>this is just the start</p>]]></description>
-            <link>undefinedceb66cc5-d9f8-4fe7-8c03-80ee67ea10a7/index.html</link>
+            <link>https://thegrid.ai/thomas-radman/ceb66cc5-d9f8-4fe7-8c03-80ee67ea10a7/index.html</link>
             <guid isPermaLink="false">ceb66cc5-d9f8-4fe7-8c03-80ee67ea10a7</guid>
             <pubDate>Fri, 26 Feb 2016 07:22:01 GMT</pubDate>
         </item>
